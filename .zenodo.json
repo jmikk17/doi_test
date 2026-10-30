@@ -1,0 +1,18 @@
+{
+    "creators": [
+        {
+            "name": "Mikkelsen, Jonas",
+            "orcid": "0009-0007-6799-6948",
+            "affiliation": "Aarhus University",
+            "type": "ProjectMember"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Last, First",
+            "orcid": "0000-0000-0000-0000",
+            "affiliation": "University of Testing",
+            "type": "Researcher"
+        }
+    ]
+}
